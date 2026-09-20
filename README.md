@@ -4,6 +4,10 @@
 
 > ReadyTime 是当前公开展示名称。产品仍处于内部验证阶段，完整源代码与安装包暂未公开。
 
+## Overview
+
+ReadyTime is a local-first macOS task companion that brings planning, reminders, focus and lightweight utilities into one native workspace.
+
 ## 为什么做它
 
 很多效率工具擅长记录，却没有帮助用户真正进入行动。ReadyTime 以任务为主线，把创建、提醒、执行、复盘和轻量工具串成一套连贯的 Mac 工作流。
@@ -37,7 +41,7 @@
 
 ## 当前状态
 
-- 当前内部版本：v1.5.0 · Build 61
+- 当前内部版本：`v1.5.0 · Build 61`
 - 已完成本机 DMG 构建与安装验证
 - 当前构建采用 Ad Hoc 签名，仅用于内部测试
 - Developer ID 签名、Apple 公证和正式公开分发尚未完成
@@ -61,3 +65,5 @@ ReadyTime 是独立开发项目，与 Apple 及任何模型服务商不存在隶
 ---
 
 Built by [@dean0228](https://github.com/dean0228)
+
+Copyright © 2026 Dean. All rights reserved.
